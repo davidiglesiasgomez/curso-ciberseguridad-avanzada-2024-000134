@@ -414,7 +414,7 @@ Search Type       : General
 Search Time       : 13/06/2021 12:32:11
 Web Browser       : Chrome
 Hits              : 0
-URL               : _dk_https://google.com https://google.com https://www.google.com/complete/search?client=chrome-omni&gs_ri=chrome-ext-ansg&xssi=t&q=t&oit=1&cp=1&pgcl=7&gs_rn=42&psi=JfAimC-Q-EUkaX1x&sugkey=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw
+URL               : _dk_https://google.com https://google.com https://www.google.com/complete/search?client=chrome-omni&gs_ri=chrome-ext-ansg&xssi=t&q=t&oit=1&cp=1&pgcl=7&gs_rn=42&psi=JfAimC-***************=AIzaSyBOti4mM-**********************
 ==================================================
 
 ==================================================
@@ -424,7 +424,7 @@ Search Type       : General
 Search Time       : 13/06/2021 12:32:11
 Web Browser       : Chrome
 Hits              : 0
-URL               : _dk_https://google.com https://google.com https://www.google.com/complete/search?client=chrome-omni&gs_ri=chrome-ext-ansg&xssi=t&q=twi&oit=1&cp=3&pgcl=7&gs_rn=42&psi=JfAimC-Q-EUkaX1x&sugkey=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw
+URL               : _dk_https://google.com https://google.com https://www.google.com/complete/search?client=chrome-omni&gs_ri=chrome-ext-ansg&xssi=t&q=twi&oit=1&cp=3&pgcl=7&gs_rn=42&psi=JfAimC-***************=AIzaSyBOti4mM-**********************
 ==================================================
 
 ==================================================
@@ -434,7 +434,7 @@ Search Type       : General
 Search Time       : 13/06/2021 12:32:11
 Web Browser       : Chrome
 Hits              : 0
-URL               : _dk_https://google.com https://google.com https://www.google.com/complete/search?client=chrome-omni&gs_ri=chrome-ext-ansg&xssi=t&q=twit&oit=1&cp=4&pgcl=7&gs_rn=42&psi=JfAimC-Q-EUkaX1x&sugkey=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw
+URL               : _dk_https://google.com https://google.com https://www.google.com/complete/search?client=chrome-omni&gs_ri=chrome-ext-ansg&xssi=t&q=twit&oit=1&cp=4&pgcl=7&gs_rn=42&psi=JfAimC-***************=AIzaSyBOti4mM-**********************
 ==================================================
 
 ==================================================
