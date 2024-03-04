@@ -134,6 +134,15 @@ Otro ejemplo, un ataque de fuerza bruta a un formulario de una web es un evento 
 
 #### Detección y análisis
 
+- Para la subfase de detección, se pueden utilizar herramientas que se encarguen de monitorizar tanto sistemas finales (endpoints) como tráfico de red.
+- La subfase de análisis implica encontrar el vector de ataque inicial y los acontecimientos que sucedieron después.
+
 #### Contenimiento, erradicación y recuperación
 
+- Contener un incidente para que no se propague y afecte a más sistemas causando daños e interrupciones adicionales.
+- Seguir profundizando en el análisis para determinar exactamente qué sucedió y poder eliminar todos los artefactos maliciosos relacionados con el incidente de tal forma que los actores no puedan volver a entrar en los sistemas.
+- Etapa de recuperación buscará devolver todas las operaciones a la normalidad devolviendo los sistemas afectados a los entornos de producción ahora que se han limpiado y fortalecido.
+
 #### Actividades post-incidente. Lecciones aprendidas
+
+- La parte más importante de la fase de actividad posterior al incidente es aprender y mejorar los sistemas existentes.
